@@ -138,4 +138,9 @@ public class StreamTest1 {
             }
         }).forEach(System.out::println);
     }
+
+    @Test
+    public void test8(){
+        System.out.println("hello git");
+    }
 }
