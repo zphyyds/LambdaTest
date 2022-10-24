@@ -48,4 +48,9 @@ public class Test1 {
         Comparator<Integer> comparator1 = (o1,o2) -> o1.compareTo(o2);
         System.out.println(comparator1.compare(21, 12));
     }
+
+    @Test
+    public void test2(){
+        System.out.println("hello");
+    }
 }
