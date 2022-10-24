@@ -1,4 +1,4 @@
-package com.zhang;
+package com.zhang.lambda;
 
 import java.util.Objects;
 

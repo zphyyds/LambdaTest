@@ -1,4 +1,4 @@
-package com.zhang;
+package com.zhang.lambda;
 
 import org.junit.jupiter.api.Test;
 
